@@ -61,7 +61,7 @@
               "background-color": "@bg-value"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#efefef",
+              "color": "#ffffff",
               "text-align": "center"
             },
             "H1": {
